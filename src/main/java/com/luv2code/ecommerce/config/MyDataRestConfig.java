@@ -50,7 +50,6 @@ public class MyDataRestConfig implements RepositoryRestConfigurer {
         
         // call an internal helper method
         exposeIds(config);
-
     }
 
 
